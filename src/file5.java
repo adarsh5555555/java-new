@@ -15,4 +15,7 @@ public class file5 {
     public void setNoOfPersons(int noOfPersons) {
         this.noOfPersons = noOfPersons;
     }
+    public void noOfperesoncall(){
+        System.out.println("you called "+this.noOfPersons+" persons");
+    }
 }
