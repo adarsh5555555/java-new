@@ -16,6 +16,7 @@ public class file6 {
         }else{
             System.out.println("Noo,the number is not palindrome");
             System.out.println("yess");
+            System.out.println("hii");
         }
     }
 }
