@@ -15,6 +15,7 @@ public class file6 {
             System.out.println("yess the number is palindrome");
         }else{
             System.out.println("Noo,the number is not palindrome");
+            System.out.println("yess");
         }
     }
 }
