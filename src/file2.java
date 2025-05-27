@@ -7,5 +7,6 @@ public class file2 {
 
     public void setNoOfWheels(int noOfWheels) {
         this.noOfWheels = noOfWheels;
+        System.out.println(this.noOfWheels);
     }
 }
