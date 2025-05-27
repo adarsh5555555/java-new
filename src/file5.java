@@ -15,11 +15,13 @@ public class file5 {
     public void setNoOfPersons(int noOfPersons) {
         this.noOfPersons = noOfPersons;
     }
-    public void manypersons(){
-        if(this.noOfPersons>=5){
+
+    public void manypersons() {
+        if (this.noOfPersons >= 5) {
             System.out.println("yess there are many persons");
-        }else{
+        } else {
             System.out.println("no there are less persons");
         }
+
     }
 }
